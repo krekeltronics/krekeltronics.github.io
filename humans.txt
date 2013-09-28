@@ -2,7 +2,7 @@
 Author: Krekeltronics LLC
 Site: 
 Twitter: https://www.twitter.com/krekeltronics
-Github: https://www.github.com/krekeltronics
+
 
 /* THANKS */
 Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)
