@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://krekeltronics.github.io/sitemap.xml 
+Sitemap: http://krekeltronics.com/sitemap.xml 
