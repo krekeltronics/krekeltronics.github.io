@@ -1,7 +1,7 @@
 /* TEAM */
-Author: Patrick Krekelberg
+Author: Krekeltronics LLC
 Site: 
-
+Twitter: https://www.twitter.com/krekeltronics
 
 
 /* THANKS */
